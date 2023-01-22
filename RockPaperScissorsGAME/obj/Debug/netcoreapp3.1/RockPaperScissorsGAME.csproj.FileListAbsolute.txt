@@ -1,0 +1,14 @@
+C:\Users\cengi\source\repos\RockPaperScissorsGAME\RockPaperScissorsGAME\bin\Debug\netcoreapp3.1\RockPaperScissorsGAME.exe
+C:\Users\cengi\source\repos\RockPaperScissorsGAME\RockPaperScissorsGAME\bin\Debug\netcoreapp3.1\RockPaperScissorsGAME.deps.json
+C:\Users\cengi\source\repos\RockPaperScissorsGAME\RockPaperScissorsGAME\bin\Debug\netcoreapp3.1\RockPaperScissorsGAME.runtimeconfig.json
+C:\Users\cengi\source\repos\RockPaperScissorsGAME\RockPaperScissorsGAME\bin\Debug\netcoreapp3.1\RockPaperScissorsGAME.runtimeconfig.dev.json
+C:\Users\cengi\source\repos\RockPaperScissorsGAME\RockPaperScissorsGAME\bin\Debug\netcoreapp3.1\RockPaperScissorsGAME.dll
+C:\Users\cengi\source\repos\RockPaperScissorsGAME\RockPaperScissorsGAME\bin\Debug\netcoreapp3.1\RockPaperScissorsGAME.pdb
+C:\Users\cengi\source\repos\RockPaperScissorsGAME\RockPaperScissorsGAME\obj\Debug\netcoreapp3.1\RockPaperScissorsGAME.csproj.AssemblyReference.cache
+C:\Users\cengi\source\repos\RockPaperScissorsGAME\RockPaperScissorsGAME\obj\Debug\netcoreapp3.1\RockPaperScissorsGAME.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cengi\source\repos\RockPaperScissorsGAME\RockPaperScissorsGAME\obj\Debug\netcoreapp3.1\RockPaperScissorsGAME.AssemblyInfoInputs.cache
+C:\Users\cengi\source\repos\RockPaperScissorsGAME\RockPaperScissorsGAME\obj\Debug\netcoreapp3.1\RockPaperScissorsGAME.AssemblyInfo.cs
+C:\Users\cengi\source\repos\RockPaperScissorsGAME\RockPaperScissorsGAME\obj\Debug\netcoreapp3.1\RockPaperScissorsGAME.csproj.CoreCompileInputs.cache
+C:\Users\cengi\source\repos\RockPaperScissorsGAME\RockPaperScissorsGAME\obj\Debug\netcoreapp3.1\RockPaperScissorsGAME.dll
+C:\Users\cengi\source\repos\RockPaperScissorsGAME\RockPaperScissorsGAME\obj\Debug\netcoreapp3.1\RockPaperScissorsGAME.pdb
+C:\Users\cengi\source\repos\RockPaperScissorsGAME\RockPaperScissorsGAME\obj\Debug\netcoreapp3.1\RockPaperScissorsGAME.genruntimeconfig.cache
